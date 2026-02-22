@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter, Outlet, Route, Routes } from 'react-router-dom'
 
-import Landing from './page/landing'
+import Landing from './page/Landing'
 import Layout from './layout/layout'
 
 
